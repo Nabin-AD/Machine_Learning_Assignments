@@ -16,9 +16,9 @@ Predict student internal marks using behavioral indicators with the **Matrix Met
 ## 📈 Results
 | Metric | Value |
 |--------|-------|
-| R² Score | 0.xx |
-| RMSE | x.xx |
-| MAE | x.xx |
+| R² Score |  0.8883 (88.83% variance explained) |
+| RMSE | 4.53 marks |
+| MAE | 3.55 marks |
 
 
 
